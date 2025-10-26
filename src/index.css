@@ -1,0 +1,17 @@
+.footerBottom
+{
+   
+    /* position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0; */
+  
+}
+.aspect-box-channel {
+  aspect-ratio: 16 / 9;  
+  overflow: auto;         
+  border: 1px solid #ccc;
+}
+/* body{
+    overflow-y: hidden;
+} */
