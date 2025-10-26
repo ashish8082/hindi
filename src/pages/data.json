@@ -1,0 +1,571 @@
+{
+"result": [
+{
+"_id": "68c6640f46fab84f7c493277",
+"name": "9x Jhakaas",
+"url": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
+"status": true,
+"logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/9XJhakaasLogo.jpg",
+"category": "music",
+"__v": 0
+},
+{
+"_id": "68c664ef46fab84f7c49327e",
+"name": "Aaj Tak",
+"url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+"status": true,
+"logo_url": "https://akm-img-a-in.tosshub.com/aajtak/resource/img/aajtak-logo-153X116-v2.png",
+"category": "news",
+"__v": 0
+},
+{
+"_id": "68c666a146fab84f7c493281",
+"name": "Aastha Bhajan (480p)",
+"url": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8",
+"status": true,
+"logo_url": "https://d2ivesio5kogrp.cloudfront.net/static/aastha/images/aastha_logo_white.png",
+"category": "bhajan",
+"__v": 0
+},
+{
+"_id": "68c668db46fab84f7c493284",
+"name": "ABP News",
+"url": "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8",
+"status": true,
+"logo_url": "https://static.vidgyor.com/player/account/abp/img/ABP-Hindi.png",
+"category": "news",
+"__v": 0
+},
+{
+"_id": "68c669fe46fab84f7c493287",
+"name": "Abzy Dhakad",
+"url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8",
+"status": true,
+"logo_url": "https://th.bing.com/th/id/OIP.BIipVR2ghcgcwxrV4M7HzAAAAA?rs=1&pid=ImgDetMain",
+"category": "entertainment",
+"__v": 0
+},
+{
+"_id": "68c67b3b46fab84f7c49329e",
+"name": "Awaaz India TV",
+"url": "http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+"status": true,
+"logo_url": "https://awaazindiatv.com/wp-content/uploads/2021/03/awaazindiatv.png",
+"category": "news",
+"__v": 0
+},
+{
+"_id": "68c67c4846fab84f7c4932a3",
+"name": "B4U Bhojpuri",
+"url": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8",
+"status": true,
+"logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/B4U_Bhojpuri_logo_2022.jpg",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c67d3046fab84f7c4932a8",
+"name": "B4U Kadak ",
+"url": "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c67da846fab84f7c4932ad",
+"name": "B4U Movies India",
+"url": "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8",
+"status": true,
+"logo_url": "https://logos.fandom.com/wiki/B4U_Movies?file=B4U_MOVIES_2014.png",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c67dfd46fab84f7c4932b2",
+"name": "B4U Music",
+"url": "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest?cb=20240608155112",
+"category": "music",
+"__v": 0
+},
+{
+"_id": "68c67e6346fab84f7c4932b7",
+"name": "B4U Plus",
+"url": "http://183.89.246.119:8881/play/a08l/index.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/b/bc/Logo_B4U_Plus_2018.png/revision/latest?cb=20240924201400",
+"category": "music",
+"__v": 0
+},
+{
+"_id": "68c67ebe46fab84f7c4932bc",
+"name": "Bhojpuri Cinema",
+"url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png/revision/latest?cb=20210510074907",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c67f0846fab84f7c4932bf",
+"name": "Dabangg",
+"url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/5/52/Dabangg.png/revision/latest?cb=20210510083232",
+"category": "music",
+"__v": 0
+},
+{
+"_id": "68c67f4946fab84f7c4932c2",
+"name": "Dangal TV",
+"url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png/revision/latest?cb=20210514114903",
+"category": "serial",
+"__v": 0
+},
+{
+"_id": "68c67fd446fab84f7c4932c5",
+"name": "DD Kisan",
+"url": "https://cdn-6.pishow.tv/live/9/master.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/6/60/DD-Kishan_Logo.png/revision/latest?cb=20160805131037",
+"category": "national",
+"__v": 0
+},
+{
+"_id": "68c6809946fab84f7c4932ca",
+"name": "BFLIX MOVIES",
+"url": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c680df46fab84f7c4932cf",
+"name": "Epic TV",
+"url": "https://epiconvh.akamaized.net/live/epic/master.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/b/b9/Epic_tv_logo.png/revision/latest?cb=20200120175207",
+"category": "history",
+"__v": 0
+},
+{
+"_id": "68c6815246fab84f7c4932d4",
+"name": "ET Now",
+"url": "https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8",
+"status": true,
+"logo_url": "na",
+"category": "news",
+"__v": 0
+},
+{
+"_id": "68c681a646fab84f7c4932d9",
+"name": "Filamchi Bhojpuri",
+"url": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/0/0b/Filamchi_hin.png/revision/latest?cb=20210510100532",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c681f346fab84f7c4932de",
+"name": "Filmeraa1",
+"url": "https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/5/58/Filamchi_Bhojpuri_new.png/revision/latest?cb=20250626135709",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c6823e46fab84f7c4932e1",
+"name": "Indywood TV",
+"url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/5/58/Filamchi_Bhojpuri_new.png/revision/latest?cb=20250626135709",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c6827046fab84f7c4932e4",
+"name": "iPlus TV",
+"url": "https://live.we2live.in/iplustv/iplustv/playlist.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/e/eb/IPlus.jpeg/revision/latest?cb=20191228140235",
+"category": "music",
+"__v": 0
+},
+{
+"_id": "68c682ab46fab84f7c4932e7",
+"name": "Ishara TV",
+"url": "https://epiconvh.akamaized.net/live/ishaara/master.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/7/75/Ishara_tv.png/revision/latest?cb=20210406175023",
+"category": "entertainment",
+"__v": 0
+},
+{
+"_id": "68c6902946fab84f7c4932ec",
+"name": "Manoranjan Movies",
+"url": "https://cdn-2.pishow.tv/live/228/master.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/a/ab/ManoranjanMusicLogo.jpg/revision/latest?cb=20200103183042",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c6908946fab84f7c4932f3",
+"name": "Mastiii",
+"url": "https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/2/2d/Mastiii_2023.jpg/revision/latest?cb=20240209164909",
+"category": "music",
+"__v": 0
+},
+{
+"_id": "68c690f446fab84f7c4932f8",
+"name": "Nazara",
+"url": "https://epiconvh.akamaized.net/live/nazara/master.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/f/f8/Nazara.png/revision/latest?cb=20250610093749",
+"category": "serial",
+"__v": 0
+},
+{
+"_id": "68c6912946fab84f7c4932fb",
+"name": "Nazrana 1",
+"url": "https://live.hungama.com/linear/nazrana/playlist.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/f/f8/Nazara.png/revision/latest?cb=20250610093749",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c6916f46fab84f7c4932fe",
+"name": "NDTV Profit",
+"url": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/1/18/NDTV_Profit.svg/revision/latest?cb=20100428142841",
+"category": "news",
+"__v": 0
+},
+{
+"_id": "68c691a446fab84f7c493301",
+"name": "News 24",
+"url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/d/d5/News_24_new.jpeg/revision/latest?cb=20191222044934",
+"category": "news",
+"__v": 0
+},
+{
+"_id": "68c6924d46fab84f7c493306",
+"name": "Sansad TV",
+"url": "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/9/97/Sansad_TV.jpg/revision/latest?cb=20210915134512",
+"category": "national",
+"__v": 0
+},
+{
+"_id": "68c6929846fab84f7c493309",
+"name": "Sanskar TV",
+"url": "https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/4/4d/Sanskarv2.png/revision/latest?cb=20210510171121",
+"category": "bhakti",
+"__v": 0
+},
+{
+"_id": "68c692df46fab84f7c49330c",
+"name": "Shemaroo TV",
+"url": "https://cdn-3.pishow.tv/live/230/master.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg/revision/latest?cb=20200430025535",
+"category": "serial",
+"__v": 0
+},
+{
+"_id": "68c6931546fab84f7c49330f",
+"name": "ShowBox",
+"url": "https://epiconvh.akamaized.net/live/showbox/master.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/e/e5/Th_%2856%29.jpg/revision/latest?cb=20161121160532",
+"category": "music",
+"__v": 0
+},
+{
+"_id": "68c6933d46fab84f7c493312",
+"name": "Sony Kal",
+"url": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest?cb=20240615084342",
+"category": "serial",
+"__v": 0
+},
+{
+"_id": "68c693b346fab84f7c493315",
+"name": "Zee Business ",
+"url": "https://dwby15d04agvq.cloudfront.net/index_1.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Business.jpg/revision/latest?cb=20200803071301",
+"category": "new",
+"__v": 0
+},
+{
+"_id": "68c6941046fab84f7c49331c",
+"name": "Zoom",
+"url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/a/a1/Zoom-movie-logo.png/revision/latest?cb=20170417001639",
+"category": "music",
+"__v": 0
+},
+{
+"_id": "68c6946246fab84f7c493321",
+"name": "Zee Cinema",
+"url": "https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/6/66/Zee_Cinema_%282025%29.svg/revision/latest?cb=20250608051457",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c694b646fab84f7c493324",
+"name": "9X Jalwa",
+"url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/2/21/9x_Jalwa.png/revision/latest?cb=20230610200008",
+"category": "music",
+"__v": 0
+},
+{
+"_id": "68c6953246fab84f7c49332c",
+"name": "&flix",
+"url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/c/c6/Flix.svg/revision/latest?cb=20200630204319",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c695cb46fab84f7c49332f",
+"name": "History TV18",
+"url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/a/a0/History_TV18_2022.png/revision/latest?cb=20220605184419",
+"category": "history",
+"__v": 0
+},
+{
+"_id": "68c6961546fab84f7c493332",
+"name": "Zee TV",
+"url": "https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetvhd",
+"status": true,
+"logo_url": "https://logos.fandom.com/wiki/Zee_TV?file=Zee_TV_HD_2025.svg#2025%E2%80%93present",
+"category": "serial",
+"__v": 0
+},
+{
+"_id": "68c6967a46fab84f7c493335",
+"name": "&prive HD",
+"url": "https://playyonogames.in/z5/stream.m3u8?id=0-9-9z5543514",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/c/c1/%26priv%C3%A9_HD_%282025%29.svg/revision/latest?cb=20250608143206",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c696a646fab84f7c493338",
+"name": "&pictures",
+"url": "https://playyonogames.in/z5/stream.m3u8?id=0-9-tvpictureshd",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20231217022312",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c6980f46fab84f7c49333d",
+"name": "Music India",
+"url": "https://cdn-2.pishow.tv/live/226/master.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908",
+"category": "music",
+"__v": 0
+},
+{
+"_id": "68c6989a46fab84f7c493342",
+"name": "Zee News",
+"url": "https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8",
+"status": true,
+"logo_url": "https://static.wikia.nocookie.net/logopedia/images/5/53/Zee_News_hd.jpg",
+"category": "news",
+"__v": 0
+},
+{
+"_id": "68c6a7e746fab84f7c493352",
+"name": "Classic Bollywood HD",
+"url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8",
+"status": true,
+"logo_url": "https://i.imgur.com/scDKOLS.png",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c721198f67431377ce2bf5",
+"name": "Young Hollywood",
+"url": "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
+"status": true,
+"logo_url": "na",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c7219a8f67431377ce2bf9",
+"name": "CNBC TV",
+"url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8",
+"status": true,
+"logo_url": "na",
+"category": "news",
+"__v": 0
+},
+{
+"_id": "68c721ef8f67431377ce2bfd",
+"name": "Anjan",
+"url": "https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8",
+"status": true,
+"logo_url": "na",
+"category": "serial",
+"__v": 0
+},
+{
+"_id": "68c724e8dae7aec6784f5245",
+"name": "E 24",
+"url": "https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8",
+"status": true,
+"logo_url": "na",
+"category": "music",
+"__v": 0
+},
+{
+"_id": "68c725f1dae7aec6784f5252",
+"name": "India Today",
+"url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
+"status": true,
+"logo_url": "na",
+"category": "news",
+"__v": 0
+},
+{
+"_id": "68c72653dae7aec6784f525c",
+"name": "Gubbare",
+"url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
+"status": true,
+"logo_url": "na",
+"category": "cartoon",
+"__v": 0
+},
+{
+"_id": "68c72690dae7aec6784f5260",
+"name": "Gyandarshan",
+"url": "https://cdn-6.pishow.tv/live/14/master.m3u8",
+"status": true,
+"logo_url": "na",
+"category": "national",
+"__v": 0
+},
+{
+"_id": "68c726c6dae7aec6784f5264",
+"name": "Hindi Khabar",
+"url": "https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/index.m3u8",
+"status": true,
+"logo_url": "na",
+"category": "news",
+"__v": 0
+},
+{
+"_id": "68c72795dae7aec6784f526b",
+"name": "Manoranjan Grand",
+"url": "https://cdn-1.pishow.tv/live/1011/master.m3u8",
+"status": true,
+"logo_url": "na",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c72854dae7aec6784f5276",
+"name": "MTV HD",
+"url": "http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8",
+"status": true,
+"logo_url": "na",
+"category": "news",
+"__v": 0
+},
+{
+"_id": "68c728fbdae7aec6784f5280",
+"name": "Oscar Movies Bhojpuri",
+"url": "https://cdn-4.pishow.tv/live/233/master.m3u8",
+"status": true,
+"logo_url": "na",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c7292adae7aec6784f5284",
+"name": "Pasand TV",
+"url": "https://yuppftalive.akamaized.net/080823/pasand/playlist.m3u8",
+"status": true,
+"logo_url": "na",
+"category": "serial",
+"__v": 0
+},
+{
+"_id": "68c729b5dae7aec6784f5288",
+"name": "Times Now",
+"url": "",
+"status": true,
+"logo_url": "na",
+"category": "news",
+"__v": 0
+},
+{
+"_id": "68c7e82d6ae082a28ae77abe",
+"name": "Bollywood-HD-OTT",
+"url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8",
+"status": true,
+"logo_url": "NA",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c7e9bd6ae082a28ae77ac2",
+"name": "Zee Bollymovies (1080p)",
+"url": "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8",
+"status": true,
+"logo_url": "NA",
+"category": "movies",
+"__v": 0
+},
+{
+"_id": "68c7eadd6ae082a28ae77ac5",
+"name": "TV 1 (576p)",
+"url": "https://edge4-moblive.yuppcdn.net/trans1sd/smil:tv111.smil/playlist.m3u8",
+"status": true,
+"logo_url": "NA",
+"category": "sport",
+"__v": 0
+},
+{
+"_id": "68c844c600da84b687506d73",
+"name": "NDTV India",
+"url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8",
+"status": true,
+"logo_url": "https://i.imgur.com/QjJYohG.png",
+"category": "news",
+"__v": 0
+}
+]
+}
